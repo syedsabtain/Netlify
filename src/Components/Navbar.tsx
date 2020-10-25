@@ -27,7 +27,7 @@ export default()=>{
         </a>
         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
           <a className="dropdown-item" href="#">Action</a>
-          <a className="dropdown-item" href="#">Another action</a>
+          <a className="dropdown-item" href="#">Anothers action</a>
           <div className="dropdown-divider"></div>
           <a className="dropdown-item" href="#">Something else here</a>
         </div>
